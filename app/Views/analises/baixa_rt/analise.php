@@ -136,7 +136,9 @@
                 }
                 ?>
 
-                <a href="#" class="btn btn-primary btn-lg col-12"><i class="fa fa-check"></i> Executar funções no SYS</a>
+                <a href="#" class="btn btn-primary btn-lg col-12 mb-4"><i class="fa fa-check"></i> Executar funções no SYS</a>
+
+                <a href="#" class="btn btn-info btn-lg col-12 mb-4"><i class="fa fa-envelope"></i> Ir para disparo de e-mails</a>
             </div>
         </div>
     </div>
