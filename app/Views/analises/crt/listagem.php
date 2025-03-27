@@ -5,7 +5,7 @@
 <!--Page header-->
 <div class="page-header">
     <div class="page-leftheader">
-        <h4 class="page-title mb-0 text-primary">Baixa de Resp. Técnica</h4>
+        <h4 class="page-title mb-0 text-primary">Certidão de Responsabilidade Técnica</h4>
     </div>
     <div class="page-rightheader">
         <div class="btn-list">
