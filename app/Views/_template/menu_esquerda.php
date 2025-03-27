@@ -67,7 +67,7 @@
                 <i class="angle fe fe-chevron-right"></i>
             </a>
             <ul class="slide-menu">
-                <li><a href="#" class="slide-item"> Inclusão</a></li>
+                <li><a href="<?=url_to('baixart.listagem.inclusao')?>" class="slide-item"> Inclusão</a></li>
                 <li><a href="#" class="slide-item"> Correções</a></li>
                 <li><a href="#" class="slide-item"> Pendentes</a></li>
                 <li><a href="#" class="slide-item"> Concluídos</a></li>
